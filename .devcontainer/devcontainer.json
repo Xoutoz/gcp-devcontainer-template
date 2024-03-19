@@ -10,5 +10,6 @@
 				"GoogleCloudTools.cloudcode"
 			]
 		}
-	}
+	},
+	"runArgs": ["--name", "gcp_devcontainer_template"]
 }
